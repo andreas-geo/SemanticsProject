@@ -13,7 +13,7 @@ This project is an enhanced tool developed for the Semantic Web class at the Hel
 1. Clone the project repository.
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/andreas-geo/SemanticsProject)>
 ```
 
 2. Install the necessary Python dependencies.
@@ -22,9 +22,9 @@ git clone <repository-url>
 pip install -r requirements.txt
 ```
 
-Please ensure `requirements.txt` includes `openai`, `pandas`, and any other dependencies your project might use.
+Please ensure `requirements.txt` includes `openai`, `pandas`.
 
-3. Set up your OpenAI API key in `main.py` by replacing `Replace with your OpenAI API Key` with your actual key.
+3. Set up your OpenAI API key in `main.py` by replacing `OpenAI API Key` with your actual key.
 
 ## Usage
 
